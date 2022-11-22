@@ -1,3 +1,5 @@
+Start with : node shell.js
+
 References :
 
 https://nodejs.dev/en/learn/
