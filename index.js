@@ -2,7 +2,7 @@ const sth = async () => {
     console.log("process std scheduled for 50 seconds")
     let i = 0
     setInterval(() => {
-        console.log(`${i} seconds elapsed`)
+        console.log(`${i++} seconds elapsed`)
     }, 1000)
     setTimeout(() => {
         console.log('sth');
