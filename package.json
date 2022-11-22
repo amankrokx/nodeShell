@@ -1,0 +1,19 @@
+{
+  "name": "nodeshell",
+  "version": "1.0.0",
+  "description": "Nodejs Shell emulator",
+  "main": "shell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amankrokx/nodeShell.git"
+  },
+  "author": "amankrokx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amankrokx/nodeShell/issues"
+  },
+  "homepage": "https://github.com/amankrokx/nodeShell#readme"
+}
